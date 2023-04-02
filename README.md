@@ -24,10 +24,13 @@ SO THAT my company can compete with other e-commerce companies
 
 ## Deployed Link
 https://myleen12.github.io/EC/
+
+
 ## Video Walk through
 https://drive.google.com/file/d/1nmBm8FFnuRvYVpks9p9iaFsiQMINyhKt/view 
+
 ## ScreenShot 
-![E-commerce BackEnd](./assets/images/e-com.png).
+![E-commerce BackEnd](./Assets/images/e-com.png).
 
 ## License
  MIT License
