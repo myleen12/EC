@@ -23,7 +23,7 @@ SO THAT my company can compete with other e-commerce companies
 - THEN I am able to successfully create, update, and delete data in my database
 
 ## Deployed Link
-
+https://myleen12.github.io/EC/
 ## Video Walk through
 https://drive.google.com/file/d/1nmBm8FFnuRvYVpks9p9iaFsiQMINyhKt/view 
 ## ScreenShot 
